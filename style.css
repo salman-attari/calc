@@ -11,12 +11,14 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(#9cebfc,#6ae1fb);
+    /* background: linear-gradient(#9cebfc,#6ae1fb); */ 
+    background-image: url("images/1.jpg");
+
   }
   .center{
     /* display: none; */
     width: 350px;
-    background: black;
+    background: rgb(67, 102, 116);
     border-radius: 20px;
   }
   input[type="text"]{
